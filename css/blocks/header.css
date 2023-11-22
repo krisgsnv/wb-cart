@@ -9,7 +9,7 @@
 .header__menu {
   border-radius: 8px;
   border: 1px solid rgba(255, 255, 255, 0.45);
-  background: url(../../assets/icons/menu.svg) center no-repeat;
+  background: url("../../assets/icons/menu.svg") center no-repeat;
   flex-basis: 48px;
   height: 48px;
   margin: 4px 0;
@@ -48,7 +48,7 @@
 .header__search-button {
   width: 24px;
   height: 24px;
-  background: transparent url(../../assets/icons/search.svg) center no-repeat;
+  background: transparent url("../../assets/icons/search.svg") center no-repeat;
   background-color: transparent;
 }
 
@@ -56,7 +56,7 @@
   flex-basis: 28px;
   flex-shrink: 0;
   height: 28px;
-  background: transparent url(../../assets/icons/search_mobile.svg) center
+  background: transparent url("../../assets/icons/search_mobile.svg") center
     no-repeat;
 }
 
@@ -76,12 +76,12 @@
 }
 
 .header__nav-item_cart {
-  background-image: url(../../assets/icons/cart.svg);
+  background-image: url("../../assets/icons/cart.svg");
   background-position: 10px top;
 }
 
 .header__nav-item_profile {
-  background-image: url(../../assets/icons/profile.svg);
+  background-image: url("../../assets/icons/profile.svg");
 }
 
 .header__nav-item-counter {
@@ -111,7 +111,7 @@
   .header__menu {
     border-radius: 0;
     border: none;
-    background-image: url(../../assets/icons/menu_mobile.svg);
+    background-image: url("../../assets/icons/menu_mobile.svg");
     flex-basis: 28px;
     height: 28px;
     margin: 0;

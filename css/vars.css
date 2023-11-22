@@ -2,4 +2,12 @@
   --violet: #6725a8;
   --orange: #f55123;
   --white: #ffffff;
+  --gray: #9797af;
+  --red: #ff3b30;
+  --accent: var(--violet);
+  --rulers: rgba(0, 0, 0, 0.1);
+  --rulers-input: rgba(0, 0, 0, 0.2);
+  --text-black: #000000;
+  --background-white: var(--white);
+  --background-smoky: #f6f6fa;
 }
